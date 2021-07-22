@@ -4,6 +4,8 @@
 
 - SCSS
 
+- JS
+
 - parcel-bundler
 
 - yarn start
