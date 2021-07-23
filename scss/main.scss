@@ -1,3 +1,5 @@
+@import url('./contents.scss');
+@import url('./modal.scss');
 
 // COMMON
 * {
@@ -6,13 +8,14 @@
   padding: 0;
   font-family: 'Nunito', sans-serif;
 }
-
-
 // COLORS
 $darkgray: #212329;
 $brightred: #F9423D;
 $white: #fff;
 $lightred: #f9433dcc;
+$lightblue: #337AF1;
+
+
 
 
 // NAV
